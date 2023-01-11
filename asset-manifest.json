@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KostMovie/static/css/main.30b1f463.css",
-    "main.js": "/KostMovie/static/js/main.a1f8bc1b.js",
+    "main.js": "/KostMovie/static/js/main.42cdb943.js",
     "index.html": "/KostMovie/index.html",
     "main.30b1f463.css.map": "/KostMovie/static/css/main.30b1f463.css.map",
-    "main.a1f8bc1b.js.map": "/KostMovie/static/js/main.a1f8bc1b.js.map"
+    "main.42cdb943.js.map": "/KostMovie/static/js/main.42cdb943.js.map"
   },
   "entrypoints": [
     "static/css/main.30b1f463.css",
-    "static/js/main.a1f8bc1b.js"
+    "static/js/main.42cdb943.js"
   ]
 }

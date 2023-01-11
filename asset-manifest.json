@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KostMovie/static/css/main.30b1f463.css",
+    "main.js": "/KostMovie/static/js/main.a1f8bc1b.js",
+    "index.html": "/KostMovie/index.html",
+    "main.30b1f463.css.map": "/KostMovie/static/css/main.30b1f463.css.map",
+    "main.a1f8bc1b.js.map": "/KostMovie/static/js/main.a1f8bc1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b1f463.css",
+    "static/js/main.a1f8bc1b.js"
+  ]
+}
